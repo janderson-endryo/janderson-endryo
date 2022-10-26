@@ -71,13 +71,13 @@
       <div align="center">
     
   <a href="https://github.com/janderson-endryo/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="janderson-endryo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=janderson-endryof&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="janderson-endryo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=janderson-endryo&theme=monokai-metallian&hide_border=true"/>
   </a>
     
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pedroigorsf's Principais linguagens" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janderson-endryof&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="pedroigorsf's Principais linguagens" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janderson-endryo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>    
   
-  <a href="https://github.com/janderson-endryof?tab=repositories&sort=stargazers"><img alt="Meu repositório" title="Meu repositório" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/janderson-endryo?tab=repositories&sort=stargazers"><img alt="Meu repositório" title="Meu repositório" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
   <b>Observação:</b> As principais linguagens são apenas uma métrica do meu repositório, mas que não refletem diretamente na experiência e/ou nível de habilidade.
     </div>
@@ -89,8 +89,8 @@
     <br/>
       <div align="left">
           <p>
-        Me chamo Pedro Igor, mas algumas pessoas me chamam só de "Pedro" ou "Igor", fique avontade! Estou trabalhando na área administrativa na empresa M. Dias Branco como Assistente Administrative, atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade FADAM.<br>
-        Tenho alguns fatos curiosos, pois embora eu seja jovem, sou Diabético e Celíaco (Alergia ao trigo), mas já me adaptei muito bem a essas mudanças da minha vida, então não precisa se preocupar, rs!<br>
+        Me chamo janderson endryo,atualmente estou estudando Análise e Desenvolvimento de Sistemas na Faculdade FADAM.<br>
+        <br>
         Sem mais delongas, espero que tenha gostado do meu perfil!
           </p>
       </div>
