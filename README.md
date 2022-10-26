@@ -1,16 +1,24 @@
-### Hi there 👋
+<div styles="padding-button:20px;">
 
-<!--
-**janderson-endryo/janderson-endryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>me chamo janderson endryo.</h1>
+ estou estudando Análise e Desenvolvimento de Sistema e em um futuro próximo desejo já está programando :)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+</div>
+
+<br><br>
+
+<div align="right">
+<a href="https://github.com/janderson-endryo?tab=followers">
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/janderson-endryo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="mailto:jandersonendryo@hotmail.com">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+</a>
+</div>
