@@ -1,7 +1,7 @@
 <div styles="padding-button:20px;">
 
-  <h1 align="right">prazer janderson endryo.</h1>
- estou estudando Análise e Desenvolvimento de Sistema e em um futuro próximo desejo já está programando :)
+  <h1 align="right">Olá! Eu sou janderson endryo.</h1>
+ <p align="right">estou estudando Análise e Desenvolvimento de Sistema e em um futuro próximo desejo já está programando :)</p>
 
 <br/>
 
